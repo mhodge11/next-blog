@@ -1,0 +1,20 @@
+{
+  "name": "next-blog",
+  "version": "1.0.0",
+  "description": "NextJS tutorial app",
+  "private": true,
+  "license": "ISC",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "gray-matter": "^4.0.3",
+    "marked": "^4.3.0",
+    "next": "^13.2.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "styled-jsx": "^5.1.2"
+  }
+}
